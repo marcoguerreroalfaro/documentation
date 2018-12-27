@@ -1,4 +1,4 @@
-Codeceptjs
+Codecept
 ==========
 
 Configuración e integración en Devops
