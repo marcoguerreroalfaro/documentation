@@ -9,3 +9,4 @@ Devops - Velocity
 
   index
   codecept/index
+  deploy/index
