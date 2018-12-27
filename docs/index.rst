@@ -8,3 +8,10 @@ Devops - Velocity
   :name: sec-devops
 
   index
+  
+.. toctree::
+  :maxdepth: 2
+  :caption: Codecept
+  :name: sec-codecept
+
+  codecept/index
