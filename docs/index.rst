@@ -6,3 +6,11 @@ Devops - Velocity
          `Have a look here <http://docs.godotengine.org/en/latest>`_.
          For the stable 2.1 branch, `it's here <http://docs.godotengine.org/en/2.1>`_.
 
+
+
+         .. toctree::
+            :maxdepth: 1
+            :caption: Codecept
+            :name: sec-codecept
+
+            codecept/index
