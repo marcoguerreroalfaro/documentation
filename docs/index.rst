@@ -15,4 +15,5 @@ Bienvenido a la documentacion Devops!
 
    /index
    codecept/index
-   deploy/index
+   cdeployment/index
+   staticfiles/index
