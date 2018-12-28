@@ -7,7 +7,7 @@ Configuración e integración en Devops
 1. Crear repositorio en github. (e.g: https://github.com/{user_acc}/{proyect_name}_TestAutomation)
 2. Subir archivos correspondientes a las pruebas de Codecept en el repositorio creado.
 
-.. note:: Se recomienda tener al menos una prueba, al menos la de validacion del site.
+.. note:: Se recomienda tener al menos una prueba, una de validacion de carga del site.
           o home de la web o aplicación
 
 3. En Devops se debe registrar el repositorio en la opcion de **repositorio de calidad** mostrado en la pantalla del formulario
