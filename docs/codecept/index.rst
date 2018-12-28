@@ -8,7 +8,7 @@ Configuración e integración en Devops
 2. Subir archivos de Codecept en el repositorio creado.
 3. En Velocity 
 
-.. figure:: ../img/codecept.png
+.. figure:: ../img/codecept1.png
   :align: center
   :figwidth: 300px
-  :target: ../img/codecept.png
+  :target: ../img/codecept1.png
